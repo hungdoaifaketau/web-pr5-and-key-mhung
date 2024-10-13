@@ -5892,32 +5892,32 @@ show_date_time();
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Telegram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://t.me/vietanh2006', '_blank');
+        window.open('https://t.me/hunglaptrinh', '_blank');
     });
 });
 
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Github');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://github.com/tuan-anh-2006', '_blank');
+        window.open('https://github.com/hungdoaifaketau', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Facebook');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.facebook.com/buihuu.tuananh.2006', '_blank');
+        window.open('https://www.facebook.com/mhung.x.dev/', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Instagram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.instagram.com/buihuutuananh2006', '_blank');
+        window.open('https://www.instagram.com/', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Tiktok');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.tiktok.com/@adudarkvailoz2006', '_blank');
+        window.open('https://www.tiktok.com/@mhungggg', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
