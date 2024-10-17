@@ -5911,13 +5911,13 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Instagram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.instagram.com/', '_blank');
+        window.open('https://www.instagram.com/bug_loi_cu/', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Tiktok');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.tiktok.com/@mhungggg', '_blank');
+        window.open('https://www.tiktok.com/@mhungxcode', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
